@@ -3,7 +3,7 @@ title = "Potpie"
 weight = 20
 [extra]
 linkURL = "https://potpie.ai/"
-description = "Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents."
+description = "Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents for your codebase."
 additionalLinks = [
   { url = "https://github.com/potpie-ai/potpie", icon = "/icons/github.svg", tooltip = "GitHub Repository" },
   { url = "https://docs.potpie.ai/", icon = "/icons/documentation.svg", tooltip = "Documentation" },
